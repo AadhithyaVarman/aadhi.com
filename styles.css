@@ -1,0 +1,16 @@
+.blog-listing-container .card:hover{
+    transform: scale(1.03);
+}
+
+
+
+
+
+nav{
+    position: sticky;
+    top: 0px;
+}
+
+button.Search-Button{
+    padding: 2px;
+}
